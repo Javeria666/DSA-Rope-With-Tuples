@@ -2,7 +2,7 @@
 name = "dsa-project-main"
 version = "0.1.0"
 description = ""
-authors = ["Your Name"]
+authors = ["Javeria Nadeem"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
